@@ -1,0 +1,23 @@
+body{
+    background-color: #444444;
+    color: #ffffff;
+}
+nav{
+    background-color: #252525;
+}
+input{
+    background-color: #bbbbbb;
+}
+textarea{
+    background-color: #bbbbbb;
+}
+button{
+    background-color: #bbbbbb;
+}
+footer{
+    background-color: #252525;
+}
+a:link, a:visited, a:hover, a:active{
+    text-decoration: underline;
+    color: #ffffff;
+}
